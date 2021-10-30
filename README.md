@@ -1,5 +1,3 @@
-# normal-gpd_mix
-
 Codes for a Normal-GPD probability mixture model for tide gauge data (R language)
 
 README file last updated by DJ Rasmussen, dmr2-at-princeton-dot-edu, Sat Oct 30 11:36:06 PDT 2021
