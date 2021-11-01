@@ -10,7 +10,7 @@ return_curve/compare
 return_curve/ESLreturnCurvePlots.zip
 return_curve/jnk
 
-*.Rhistory
+*/*.Rhistory
 
 
 # Compiled source #
