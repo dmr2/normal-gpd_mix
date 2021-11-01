@@ -1,0 +1,361 @@
+Gauge_ID	PSMSL_ID	Station_Name	Country	Basin	Station_Lat	Station_Lon	GPD_Record_Start	GPD_Record_End	MHHW_Exceedances_per_Year
+285a	157	Buenos Aires	Argentina	atlantic	-34.67	-58.5	1905	1961	73.40791623
+331a	822	Brisbane	Australia	pacific	-27.37	153.17	1984	2016	82.63715233
+166a	1159	Broome	Australia	indian	-18	122.22	1986	2016	200.1264826
+332a	1154	Bundaberg	Australia	pacific	-24.77	152.37	1984	2016	152.3642388
+171a	983	Cocos	Australia	indian	-12.12	96.88	1985	2016	155.1738763
+168a	935	Darwin	Australia	indian	-12.47	130.83	1984	2016	185.6690129
+176a	1114	Esperance	Australia	indian	-33.87	121.88	1985	2016	153.4303443
+333a	65	Fort Denison	Australia	pacific	-33.85	151.22	1965	2015	164.8030543
+175a	111	Fremantle	Australia	indian	-32.05	115.73	1984	2015	145.186308
+335a	1216	Spring Bay	Australia	pacific	-42.53	147.92	1985	2016	183.2897107
+334a	637	Townsville	Australia	pacific	-19.25	146.83	1984	2016	135.8254382
+281a	726	Cananeia-A	Brazil	atlantic	-25.02	-47.92	1954	2006	143.6712078
+280a	1032	"Ilha Fiscal,RJ"	Brazil	atlantic	-22.88	-43.15	1963	2013	146.1883313
+gesla_1258	554	"Alert Bay, BC"	Canada	pacific	50.587	-126.931	1945	1979	195.013802
+gesla_0640	1242	"Bamfield, BC"	Canada	pacific	48.836	-125.136	1969	2015	191.9610406
+gesla_1079	984	"Bella Bella, BC"	Canada	pacific	52.163	-128.143	1906	2015	165.8459386
+gesla_0986	1323	"Campbell River, BC"	Canada	pacific	50.042	-125.247	1958	2015	356.8502419
+gesla_0440	688	"Fulford Harbour, BC"	Canada	pacific	48.769	-123.451	1952	1992	125.2763978
+gesla_0997	1245	"New Westminster, BC"	Canada	pacific	49.2	-122.91	1959	2015	230.4510816
+gesla_0896	1152	"Patricia Bay, BC"	Canada	pacific	48.654	-123.451	1966	2015	104.6537806
+gesla_1241	193	"Point Atkinson, BC"	Canada	pacific	49.337	-123.253	1914	2015	229.8825155
+gesla_0502	1071	"Port Hardy, BC"	Canada	pacific	50.722	-127.489	1945	2015	169.8063877
+540a	167	"Prince Rupert, BC"	Canada	pacific	54.32	-130.32	1909	2018	189.8591162
+gesla_1073	829	"Queen Charlotte City, BC"	Canada	pacific	53.252	-132.072	1957	2015	204.52728
+gesla_0652	1255	"Steveston, BC"	Canada	pacific	49.125	-123.181	1969	2001	250.7447085
+542a	165	"Tofino, BC"	Canada	pacific	49.15	-125.9	1909	2018	154.6957454
+gesla_0453	175	"Vancouver, BC"	Canada	pacific	49.287	-123.11	1909	2015	196.0906144
+543a	166	"Victoria, BC"	Canada	pacific	48.42	-123.37	1909	2018	154.4122913
+274a	447	"Churchill, MB"	Canada	atlantic	58.77	-94.18	1961	2018	243.897739
+gesla_1246	1349	"Lower Escuminac, NB"	Canada	atlantic	47.083	-64.883	1963	2015	129.6080932
+gesla_0713	195	"Saint John, NB"	Canada	atlantic	45.251	-66.063	1900	2015	166.953659
+gesla_0339	1321	"Argentia, NF"	Canada	atlantic	47.3	-53.983	1971	2015	163.6835354
+gesla_0655	392	"Port-aux-Basques, NF"	Canada	atlantic	47.567	-59.133	1935	2015	154.2380404
+276a	393	"St. John's-A, NF"	Canada	atlantic	47.57	-52.7	1935	2018	159.0452539
+275a	96	"Halifax, NS"	Canada	atlantic	44.67	-63.58	1895	2014	146.7721734
+gesla_1171	1299	"North Sydney, NS"	Canada	atlantic	46.217	-60.25	1970	2015	107.8246786
+gesla_1238	1158	"Yarmouth, NS"	Canada	atlantic	43.833	-66.117	1900	2015	176.4169887
+gesla_0585	427	"Charlottetown, PEI"	Canada	atlantic	46.233	-63.117	1911	2015	19.29533044
+gesla_1262	1121	"Wood Islands, PEI"	Canada	atlantic	45.683	-62.7	1900	1996	68.04802807
+080a	510	Antofagasta	Chile	pacific	-23.65	-70.4	1945	2018	159.2294165
+022c	1272	Easter-C	Chile	pacific	-27.15	-109.47	1970	2018	153.6936342
+021b	1644	Juan Fernandez-B	Chile	pacific	-33.63	-78.82	1985	2018	181.7434785
+684a	1013202880	Puerto Montt	Chile	pacific	-41.48	-72.95	1980	2018	91.53964552
+gesla_0521	1014402920	Puerto Williams	Chile	pacific	-54.933	-67.617	1964	1998	161.576819
+035a	NA	San Felix	Chile	pacific	-26.28	-80.1	1987	2018	169.4718882
+081a	499	Valparaiso	Chile	pacific	-33.02	-71.62	1944	2018	159.8277521
+329b	333	Hong Kong-B	China	pacific	22.3	114.22	1986	2018	156.0208229
+376a	727	Xiamen	China	pacific	24.45	118.07	1954	1997	152.1077909
+085a	456	Buenaventura	Colombia	pacific	3.88	-77.05	1953	2014	80.43275724
+265a	572	Cartagena	Colombia	atlantic	10.38	-75.53	1951	1993	319.2958993
+303a	639	Tumaco	Colombia	pacific	1.82	-78.72	1951	2018	144.7374138
+024a	1450	Penrhyn	Cook Islands	pacific	-8.97	-158.05	1977	2017	217.3114655
+087a	1008002760	Quepos-A	Costa Rica	pacific	9.4	-84.17	1961	1994	183.8769431
+gesla_0098	80	Esbjerg	Denmark	atlantic	55.467	8.433	1950	2015	110.4332898
+837a	120	Gedser	Denmark	atlantic	54.57	11.93	1891	2012	71.17351872
+838a	119	Hornbaek	Denmark	atlantic	56.1	12.47	1891	2012	106.7194638
+003b	1645	Baltra-B	Ecuador	pacific	-0.43	-90.28	1985	2018	183.2644554
+091a	544	La Libertad	Ecuador	pacific	-2.2	-80.92	1949	2017	138.8908863
+030a	300	Santa Cruz	Ecuador	pacific	-0.75	-90.3	1978	2018	165.5014516
+082a	1011	Acajutla-A	El Salvador	pacific	13.58	-89.83	1962	2001	178.039804
+054a	528	Chuuk	Fd. St. Micronesia	pacific	7.45	151.85	1947	1991	177.911056
+029a	1473	Kapingamarangi	Fd. St. Micronesia	pacific	1.08	154.77	1978	2018	175.7880425
+001b	1370	Pohnpei-B	Fd. St. Micronesia	pacific	6.98	158.23	1974	2004	182.3903795
+008b	NA	Yap-B	Fd. St. Micronesia	pacific	9.5	138.12	1969	2018	194.2557623
+gesla_0376	249	Degerby	Finland	atlantic	60.032	20.385	1970	2014	135.9034501
+gesla_1009	315	Hamina	Finland	atlantic	60.563	27.179	1970	2014	113.8051681
+gesla_0371	28	Hanko	Finland	atlantic	59.823	22.977	1970	2014	129.9980697
+gesla_0246	14	Helsinki	Finland	atlantic	60.154	24.956	1970	2014	123.6300747
+gesla_0803	285	Kaskinen	Finland	atlantic	62.344	21.215	1970	2014	131.5749066
+gesla_0026	229	Kemi	Finland	atlantic	65.673	24.515	1970	2014	121.3526026
+gesla_1110	172	Mantyluoto	Finland	atlantic	61.594	21.463	1970	2014	133.0922759
+gesla_1182	79	Oulu	Finland	atlantic	65.04	25.418	1970	2014	119.6649971
+gesla_1265	194	Pietarsaari	Finland	atlantic	63.709	22.69	1970	2014	127.1080918
+gesla_1140	240	Raahe	Finland	atlantic	64.666	24.407	1970	2014	125.9399002
+gesla_0209	376	Rauma	Finland	atlantic	61.133	21.426	1970	2014	131.505771
+gesla_0998	239	Turku	Finland	atlantic	60.428	22.101	1970	2014	120.7087105
+gesla_0063	57	Vaasa	Finland	atlantic	63.081	21.571	1970	2014	130.7258406
+gesla_0022	1801	Bayonne Boucau	France	atlantic	43.527	-1.515	1967	2014	215.4852843
+822a	1	Brest	France	atlantic	48.38	-4.48	1846	2018	158.2551324
+gesla_0923	467	Cherbourg	France	atlantic	49.651	-1.635	1943	2014	172.4843761
+gesla_0431	474	Dieppe	France	atlantic	49.929	1.085	1954	2014	168.6050474
+gesla_0059	468	Dunkerque	France	atlantic	51.048	2.367	1956	2014	111.1706314
+gesla_1143	1294	Le Conquet	France	atlantic	48.359	-4.781	1970	2014	173.6355553
+gesla_0905	453	Le Havre	France	atlantic	49.482	0.106	1938	2014	206.2677913
+824a	61	Marseille	France	atlantic	43.27	5.35	1849	2018	142.6799797
+019a	1011201660	Noumea	France	pacific	-22.23	166.42	1967	2018	142.1753575
+gesla_0907	1247	Port-Tudy	France	atlantic	47.644	-3.446	1966	2014	186.1153499
+gesla_0866	1347	Roscoff	France	atlantic	48.718	-3.966	1973	2014	188.3138105
+gesla_1017	1078	Saint-Gildas	France	atlantic	47.14	-2.246	1962	2014	205.2858594
+gesla_0618	469	Saint-Jean-de-Luz	France	atlantic	43.395	-1.682	1942	2014	191.7906387
+015b	1397	Papeete-B	French Polynesia	pacific	-17.52	-149.57	1975	2018	150.0151106
+016a	1253	Rikitea	French Polynesia	pacific	-23.12	-134.95	1969	2018	187.1501585
+825a	7	Cuxhaven	Germany	atlantic	53.87	8.72	1917	2018	346.4671853
+gesla_1046	638	Reykjavik	Iceland	atlantic	64.151	-21.94	1970	2014	186.4813127
+834a	916	Malin Head	Ireland	atlantic	55.37	-7.33	1958	2001	199.8591564
+gesla_0109	154	Trieste	Italy	atlantic	45.65	13.75	1971	2012	131.8644498
+gesla_0061	87	Venezia	Italy	atlantic	45.419	12.426	1983	2014	144.5989726
+347a	1104	Abashiri	Japan	pacific	44.02	144.28	1968	2018	152.2773061
+354a	814	Aburatsu	Japan	pacific	31.58	131.42	1961	2018	172.9121004
+047a	1391	Chichijima	Japan	pacific	27.1	142.18	1975	2018	162.5599705
+gesla_0830	1264	Fukaura	Japan	pacific	40.65	139.933	1971	2013	174.6961552
+gesla_0091	1101	Fukue	Japan	pacific	32.7	128.85	1964	2013	203.2579421
+375a	460	Hachinohe	Japan	pacific	40.53	141.53	1980	2011	193.09684
+364a	813	Hakodate	Japan	pacific	41.78	140.72	1964	2018	179.6647936
+348a	94	Hamada	Japan	pacific	34.9	132.07	1984	2018	157.9834005
+358a	133	Hosojima	Japan	pacific	32.42	131.68	1933	1975	161.7806598
+365a	NA	Ishigaki	Japan	pacific	24.33	124.15	1969	2018	227.3525715
+gesla_0187	1005801300	Kagoshima	Japan	pacific	31.583	130.567	1964	2013	169.6026973
+gesla_0265	846	Kobe	Japan	pacific	34.683	135.183	1964	2013	347.6770706
+gesla_0214	1184	Kochi	Japan	pacific	33.5	133.567	1967	2013	167.5217055
+gesla_0334	809	Komatsushima	Japan	pacific	34.017	134.583	1963	2013	278.3504793
+gesla_0229	1386	Kuchinotsu	Japan	pacific	32.6	130.2	1967	2013	169.38998
+353a	134	Kushimoto	Japan	pacific	33.48	135.77	1961	2018	185.2359447
+350a	518	Kushiro	Japan	pacific	42.97	144.37	1963	2018	187.962988
+356a	1089	Maisaka	Japan	pacific	34.68	137.62	1968	2018	300.7324465
+gesla_0721	663	Maizuru	Japan	pacific	35.467	135.383	1968	2013	169.1681111
+gesla_0977	1005801300	Makurazaki	Japan	pacific	31.267	130.3	1964	2013	193.6451111
+gesla_1229	1062	Matsuyama	Japan	pacific	33.867	132.717	1960	2013	354.5088609
+352a	359	Mera	Japan	pacific	34.92	139.82	1965	2018	177.5411785
+gesla_0147	810	Misumi	Japan	pacific	32.617	130.45	1960	2012	181.6106362
+357a	1060	Miyakejima	Japan	pacific	34.07	139.47	1964	2018	164.0542176
+gesla_1188	1149	Miyako	Japan	pacific	39.65	141.983	1960	2013	198.9058301
+gesla_0682	1390	Murotomisaki	Japan	pacific	33.267	134.167	1966	2013	166.8206283
+362a	1100	Nagasaki	Japan	pacific	32.73	129.87	1985	2018	196.7794675
+gesla_0567	860	Nagoya	Japan	pacific	35.083	136.883	1960	2013	180.0351956
+355a	1151	Naha	Japan	pacific	26.22	127.67	1966	2018	176.0324573
+345a	1105	Nakano Shima	Japan	pacific	29.83	129.83	1984	2018	181.8573638
+359a	1018	Naze	Japan	pacific	28.4	129.48	1957	2018	177.1041867
+363a	1096	Nishinoomote	Japan	pacific	30.73	130.98	1965	2018	196.2603101
+351a	1364	Ofunato	Japan	pacific	39.02	141.75	1965	2018	204.5901399
+gesla_0653	1091	Okada	Japan	pacific	34.783	139.383	1960	2013	217.1152836
+gesla_0690	1263	Omaezaki	Japan	pacific	34.617	138.217	1960	2013	169.504268
+gesla_0541	1102	Oura	Japan	pacific	32.983	130.217	1967	2013	177.6041736
+gesla_0962	1146	Owase	Japan	pacific	34.067	136.217	1965	2013	175.2486812
+gesla_0473	1095	Saigo	Japan	pacific	36.2	133.333	1960	2013	167.1975453
+gesla_1052	811	Sakai	Japan	pacific	35.55	133.25	1960	2013	175.353619
+gesla_0438	808	Shimizuminato	Japan	pacific	35.017	138.517	1964	2013	185.8598162
+gesla_1087	1150	Shirahama	Japan	pacific	33.683	135.383	1967	2013	180.7013758
+gesla_0525	1098	Sumoto	Japan	pacific	34.35	134.9	1964	2013	359.8702857
+gesla_0684	847	Takamatsu	Japan	pacific	34.35	134.05	1964	2013	0.394468873
+gesla_0086	817	Tannowa	Japan	pacific	34.333	135.183	1966	2013	360.157684
+gesla_0047	1545	Tokyo	Japan	pacific	35.65	139.767	1960	2013	196.8322619
+gesla_0922	815	Tosashimizu	Japan	pacific	32.783	132.967	1960	2013	163.7292997
+349a	1389	Toyama	Japan	pacific	36.77	137.23	1967	2018	171.7923242
+gesla_1219	407	Uchiura	Japan	pacific	35.017	138.883	1960	2013	190.380982
+gesla_0956	812	Uno	Japan	pacific	34.483	133.95	1964	2013	0.139206494
+gesla_0676	1090	Uragami	Japan	pacific	33.567	135.9	1962	2013	166.5850729
+gesla_0851	1212	Uwajima	Japan	pacific	33.233	132.55	1963	2013	358.9098548
+gesla_0790	816	Wakayama	Japan	pacific	34.217	135.15	1966	2013	280.0708569
+360a	1103	Wakkanai	Japan	pacific	45.4	141.68	1967	2018	142.0481538
+gesla_0619	722	Yokohama	Japan	pacific	35.467	139.633	1960	2006	198.3970059
+320a	1592	Cendering	Malaysia	pacific	5.25	103.18	1984	2015	148.9215228
+326a	1703	Geting	Malaysia	pacific	6.22	102.1	1986	2015	119.6964694
+321a	248	Johor Baharu	Malaysia	pacific	1.45	103.78	1983	2013	26.30177294
+140a	1591	Kelang	Malaysia	indian	3.05	101.35	1983	2015	142.126718
+141a	1593	Keling	Malaysia	indian	2.2	102.15	1984	2015	106.3706968
+322a	1589	Kuantan	Malaysia	pacific	3.97	103.42	1983	2015	133.3860026
+325a	1677	Kukup	Malaysia	pacific	1.32	103.43	1985	2015	10.54097786
+142a	1676	Langkawi	Malaysia	indian	6.87	99.77	1985	2017	189.9124155
+143a	1594	Lumut	Malaysia	indian	4.23	100.6	1984	2015	127.8824938
+144a	1595	Penang	Malaysia	indian	5.42	100.33	1984	2015	151.0578667
+324a	1702	Sedili	Malaysia	pacific	1.92	104.1	1986	2015	166.9905656
+323a	1678	Tioman	Malaysia	pacific	2.8	104.13	1985	2015	151.8794521
+103c	477	Port Louis-C	Mauritius	indian	-20.15	57.48	1986	2017	190.3606219
+105a	1672	Rodrigues	Mauritius	indian	-19.67	63.42	1986	2017	179.9476273
+316a	686	"Acapulco-A,Gro."	Mexico	pacific	16.83	-99.9	1952	1995	170.1738875
+034a	1355	Cabo San Lucas	Mexico	pacific	22.87	-109.9	1973	2003	164.2529648
+317a	795	Ensenada	Mexico	pacific	31.85	-116.63	1956	1991	164.9041175
+397a	693	Guaymas	Mexico	pacific	27.93	-110.9	1953	1986	162.6601965
+395a	737	Manzanillo-A	Mexico	pacific	19.05	-104.32	1953	1982	155.7657225
+394a	689	Salina Cruz	Mexico	pacific	16.15	-95.2	1952	1991	174.8208167
+gesla_0681	24	Delfzijl	Netherlands	atlantic	53.326	6.933	1971	2014	325.8064879
+gesla_0330	23	Den Helder	Netherlands	atlantic	52.965	4.746	1971	2014	110.3546377
+gesla_0928	22	Hoek van Holland	Netherlands	atlantic	51.977	4.12	1971	2014	111.8933963
+gesla_0891	852	Noumea	New Caledonia	atlantic	-22.292	166.437	1967	1998	153.9319208
+398a	1065	Marsden Point	New Zealand	pacific	-35.83	174.5	1975	2018	129.1789995
+668a	1750	Napier	New Zealand	pacific	-39.48	176.92	1989	2018	163.6389399
+076a	996	Taranaki	New Zealand	pacific	-39.05	174.03	1955	2018	182.8964241
+073a	1590	Tauranga	New Zealand	pacific	-37.65	176.18	1984	2018	215.2160167
+071a	221	Wellington	New Zealand	pacific	-41.28	174.78	1944	2018	86.0344026
+gesla_0470	313	Heimsjoe	Norway	atlantic	63.425	9.101	1970	2015	156.5911683
+gesla_1015	1267	Honningsvaag	Norway	atlantic	70.98	25.973	1970	2015	199.2225868
+gesla_1207	486	Maaloey	Norway	atlantic	61.934	5.113	1970	2015	125.3489197
+823a	1421	Ny-Alesund	Norway	atlantic	78.93	11.95	1976	2014	170.9046808
+gesla_0911	62	Oslo	Norway	atlantic	59.909	10.734	1970	2015	99.29073965
+803a	1241	Rorvik	Norway	atlantic	64.87	11.25	1969	2014	180.7744248
+804a	302	Tregde	Norway	atlantic	58	7.57	1927	2008	110.0435335
+805a	524	Vardo	Norway	atlantic	70.33	31.1	1947	2014	161.5599544
+302a	163	Balboa	Panama	pacific	8.95	-79.57	1907	2018	191.9204511
+266a	169	Cristobal	Panama	atlantic	9.35	-79.9	1907	2017	352.1526365
+010a	1164	Rabaul	Papua New Guinea	pacific	-4.2	152.17	1966	1997	160.9589625
+093b	1274	Callao-B	Peru	pacific	-12.07	-77.17	1970	2017	154.789287
+084a	1009602800	Lobos de Afuera	Peru	pacific	-6.93	-80.72	1982	2016	174.166287
+371a	522	Legaspi	Philippines	pacific	13.13	123.75	1984	2017	183.9649509
+370a	145	Manila	Philippines	pacific	14.58	120.97	1984	2014	186.4666849
+gesla_0093	645	Wladyslawowo	Poland	atlantic	54.797	18.419	1962	2003	131.345226
+209a	52	Cascais	Portugal	atlantic	38.68	-9.42	1959	2005	153.5301677
+218b	1030	Funchal-B	Portugal	atlantic	32.63	-16.9	1976	2013	194.1861117
+011b	1371	Christmas-B	Rep. of Kiribati	pacific	1.97	-157.47	1974	2018	184.375063
+013b	575	Kanton-B	Rep. of Kiribati	pacific	-2.8	-171.72	1972	2018	216.477161
+109a	1707	Gan	Rep. of Maldives	indian	-0.68	73.15	1987	2017	169.3666913
+055a	513	Kwajalein	Rep. of Marshall Islands	pacific	8.73	167.73	1946	2018	193.479756
+005a	1217	Majuro-A	Rep. of Marshall Islands	pacific	7.1	171.37	1968	1999	193.4168076
+007b	1252	Malakal-B	Republic of Belau	pacific	7.32	134.45	1969	2017	158.4154084
+340a	1356	Kaohsiung	Republic of China	pacific	22.6	120.28	1980	2016	195.8724864
+341a	545	Keelung	Republic of China	pacific	25.15	121.75	1980	2016	126.2253644
+699a	1746	Tanjong Pagar	Singapore	pacific	1.25	103.85	1988	2018	18.30559226
+184a	820	Port Elizabeth	South Africa	indian	-33.95	25.62	1973	2016	164.0369874
+221a	826	Simon's Town	South Africa	atlantic	-34.18	18.43	1959	2016	163.4427315
+gesla_0169	593	Arrecife	Spain	atlantic	28.972	-13.53	1949	2012	178.5573535
+gesla_0199	209	Cadiz	Spain	atlantic	36.533	-6.283	1961	2012	167.5691195
+207a	498	Ceuta	Spain	atlantic	35.9	-5.32	1944	2013	160.2130324
+830a	484	La Coruna	Spain	atlantic	43.37	-8.4	1943	2013	184.0294118
+gesla_0266	496	Malaga	Spain	atlantic	36.717	-4.417	1944	2012	157.9801038
+gesla_0113	485	Santander	Spain	atlantic	43.461	-3.791	1943	2010	182.9391379
+gesla_1085	485	Santander	Spain	atlantic	43.467	-3.8	1943	2010	183.9229671
+gesla_0072	488	Tarifa	Spain	atlantic	36	-5.6	1944	2012	242.6227153
+208a	483	Vigo	Spain	atlantic	42.23	-8.73	1943	1990	177.7746945
+gesla_0752	2103	Forsmark	Sweden	atlantic	60.409	18.211	1975	2015	129.9510156
+gesla_0484	203	Furuogrund	Sweden	atlantic	64.916	21.231	1960	2015	127.5727219
+819a	1236	Goteborg-Torsh.	Sweden	atlantic	57.68	11.78	1967	2014	114.6940907
+gesla_0352	2101	Kalix	Sweden	atlantic	65.697	23.096	1974	2015	117.0187824
+gesla_0448	330	Klagshamn	Sweden	atlantic	55.522	12.894	1960	2015	96.77355496
+gesla_0290	70	Kungsholmsfort	Sweden	atlantic	56.105	15.589	1960	2015	122.9701317
+gesla_0691	2113	Kungsvik	Sweden	atlantic	58.997	11.127	1973	2015	121.2765577
+gesla_0382	68	Landsort	Sweden	atlantic	58.742	17.865	1960	2006	154.4223709
+gesla_0160	2104	Marviken	Sweden	atlantic	58.554	16.837	1964	2015	144.3093006
+gesla_0183	69	Olands Norra Udde	Sweden	atlantic	57.366	17.097	1960	2015	142.935672
+gesla_1010	2106	Oskarshamn	Sweden	atlantic	57.275	16.478	1960	2015	138.7940425
+gesla_0467	88	Ratan	Sweden	atlantic	63.986	20.895	1960	2015	131.4314233
+gesla_0301	2111	Ringhals	Sweden	atlantic	57.25	12.113	1967	2015	130.035737
+gesla_0362	2102	Skagsudde	Sweden	atlantic	63.191	19.012	1982	2015	129.5803942
+gesla_1206	179	Smogen	Sweden	atlantic	58.354	11.218	1960	2015	123.865269
+gesla_0613	122	Spikarna	Sweden	atlantic	62.363	17.531	1968	2015	135.1124559
+gesla_0335	2112	Stenungsund	Sweden	atlantic	58.093	11.832	1962	2015	110.1063864
+826a	78	Stockholm	Sweden	atlantic	59.32	18.07	1889	2014	146.3192829
+gesla_1146	2110	Viken	Sweden	atlantic	56.142	12.579	1976	2015	107.5563769
+gesla_1048	2105	Visby	Sweden	atlantic	57.639	18.284	1960	2015	147.9665893
+151a	1600	Zanzibar	Tanzania	indian	-6.15	39.18	1984	2017	66.78371239
+328a	174	Ko Lak	Thailand	pacific	11.78	99.82	1985	2017	170.7283245
+148a	446	Ko Taphao Noi	Thailand	indian	7.82	98.42	1985	2017	191.7142279
+gesla_0828	361	Aberdeen	United Kingdom	atlantic	57.143	-2.075	1930	2014	158.2241135
+259b	368	Bermuda-B	United Kingdom	atlantic	32.37	-64.7	1985	2018	149.0086488
+gesla_0064	1632	Cromer	United Kingdom	atlantic	52.934	1.302	1973	2014	143.3253792
+700a	913	Faraday	United Kingdom	atlantic	-65.25	-64.27	1959	2018	160.5703352
+gesla_0446	1731	Fishguard	United Kingdom	atlantic	52.014	-4.983	1963	2014	153.320177
+289a	490	Gibraltar-A	United Kingdom	atlantic	36.13	-5.35	1961	2014	119.0884884
+gesla_1233	936	Heysham	United Kingdom	atlantic	54.032	-2.92	1964	2014	192.8602611
+gesla_0489	5	Holyhead	United Kingdom	atlantic	53.308	-4.631	1964	2014	120.5863332
+gesla_0322	1214	Ilfracombe	United Kingdom	atlantic	51.211	-4.111	1968	2014	177.683506
+gesla_0205	286	Immingham	United Kingdom	atlantic	53.631	-0.186	1953	2014	110.0723801
+293a	830	Lerwick	United Kingdom	atlantic	60.15	-1.13	1959	2016	183.3394876
+gesla_0593	754	Lowestoft	United Kingdom	atlantic	52.473	1.751	1964	2014	145.8943466
+gesla_1059	1700	Milford Haven	United Kingdom	atlantic	51.702	-5.014	1953	2014	177.4742392
+gesla_0665	755	Millport	United Kingdom	atlantic	55.75	-4.906	1978	2014	131.5648236
+gesla_0560	1548	Newhaven	United Kingdom	atlantic	50.782	0.057	1982	2014	153.7287651
+294a	202	"Newlyn, Cornwall"	United Kingdom	atlantic	50.1	-5.53	1915	2016	186.7039079
+gesla_0520	95	North Shields	United Kingdom	atlantic	55.007	-1.44	1946	2014	156.4964646
+gesla_0173	1215	Portpatrick	United Kingdom	atlantic	54.843	-5.12	1968	2014	135.2213352
+gesla_1115	3	Sheerness	United Kingdom	atlantic	51.442	0.743	1952	2014	12.42002082
+295a	314	Stornoway	United Kingdom	atlantic	58.2	-6.38	1976	2016	184.9031673
+gesla_0289	1112	Ullapool	United Kingdom	atlantic	57.895	-5.158	1966	2014	161.6290672
+gesla_0038	1505	Whitby	United Kingdom	atlantic	54.49	-0.614	1980	2014	158.1637843
+gesla_0658	1109	Wick	United Kingdom	atlantic	58.441	-3.086	1965	2014	155.7183759
+040a	487	"Adak, AK"	USA	pacific	51.85	-176.62	1950	2018	147.5368867
+gesla_0609	1067	"Anchorage, AK"	USA	pacific	61.238	-149.89	1979	2015	0
+583b	566	"Cordova-B, AK"	USA	pacific	60.55	-145.75	1964	2018	99.54836378
+041b	757	"Dutch Harbor-B, AK"	USA	pacific	53.87	-166.53	1982	2018	181.1066197
+gesla_0050	405	"Juneau, AK"	USA	atlantic	58.298	-134.412	1979	2015	191.8807755
+571a	225	"Ketchikan, AK"	USA	pacific	55.33	-131.62	1918	2018	149.9619314
+039a	567	"Kodiak Island, AK"	USA	pacific	57.72	-152.5	1975	2018	172.5613017
+579a	1857	"Prudhoe Bay, AK"	USA	pacific	70.4	-148.52	1989	2018	148.9963931
+574a	1634	"Sand Point, AK"	USA	pacific	55.33	-160.5	1973	2018	238.1642812
+561a	1070	"Seldovia, AK"	USA	pacific	59.43	-151.72	1975	2018	186.6643733
+560c	266	"Seward-C, AK"	USA	pacific	60.12	-149.42	1967	2018	182.0051067
+559a	426	"Sitka, AK"	USA	pacific	57.05	-135.33	1938	2018	175.6009615
+gesla_1263	495	"Skagway, AK"	USA	pacific	59.45	-135.327	1982	2015	178.0530521
+562a	1353	"Valdez, AK"	USA	pacific	61.12	-146.35	1973	2018	230.3820674
+570a	445	"Yakutat, AK"	USA	pacific	59.53	-139.73	1961	2018	174.163231
+763a	1156	"Dauphin Island, AL"	USA	atlantic	30.25	-88.07	1981	2018	191.0840442
+gesla_0825	437	"Alameda, CA"	USA	pacific	37.772	-122.298	1976	2015	54.4345117
+573a	2125	"Arena Cove, CA"	USA	pacific	38.9	-123.7	1979	2018	167.066618
+556a	378	"Crescent City, CA"	USA	pacific	41.73	-124.18	1933	2018	182.148032
+576a	1639	"Humboldt Bay, CA"	USA	pacific	40.77	-124.22	1977	2018	161.2618908
+554a	256	"La Jolla, CA"	USA	pacific	32.87	-117.25	1924	2018	176.813473
+567a	245	"Los Angeles, CA"	USA	pacific	33.72	-118.27	1923	2018	168.9431013
+555a	1352	"Monterey, CA"	USA	pacific	36.6	-121.88	1973	2018	176.153684
+565a	508	"Port San Luis, CA"	USA	pacific	35.17	-120.75	1948	2018	169.4971832
+569a	158	"San Diego, CA"	USA	pacific	32.7	-117.17	1906	2018	154.3128837
+551a	10	"San Francisco, CA"	USA	pacific	37.8	-122.45	1897	2018	149.744451
+578a	377	"Santa Monica, CA"	USA	pacific	34	-118.5	1973	2018	170.5030465
+gesla_0425	1068	"Bridgeport, CT"	USA	atlantic	41.173	-73.182	1970	2015	8.855402789
+744a	429	"New London, CT"	USA	atlantic	41.35	-72.08	1938	2018	201.2507808
+gesla_0834	360	"Washington, DC"	USA	atlantic	38.873	-77.022	1950	2015	4.867871969
+747a	224	"Lewes, DE"	USA	atlantic	38.77	-75.12	1919	2018	73.05282221
+gesla_0170	786	"Reedy Point, DE"	USA	atlantic	39.558	-75.573	1979	2015	4.205842595
+760a	1193	"Apalachicola, FL"	USA	atlantic	29.72	-84.97	1976	2018	159.3477534
+240a	112	"Fernandina Beach, FL"	USA	atlantic	30.67	-81.47	1897	2018	204.058939
+242a	188	"Key West, FL"	USA	atlantic	24.55	-81.8	1913	2018	140.3391004
+753a	316	"Mayport, FL"	USA	atlantic	30.38	-81.42	1928	2000	256.7301323
+757a	1107	"Naples, FL"	USA	atlantic	26.12	-81.8	1965	2018	212.76234
+762a	246	"Pensacola, FL"	USA	atlantic	30.4	-87.2	1923	2018	193.5397684
+759a	520	"St. Petersburg, FL"	USA	atlantic	27.75	-82.62	1946	2018	189.8398509
+752a	395	"Fort Pulaski, GA"	USA	atlantic	32.03	-80.9	1935	2018	216.5940422
+014a	1372	"French Frigate-A, HI"	USA	pacific	23.87	-166.28	1974	2007	172.1842637
+060a	300	"Hilo, HI"	USA	pacific	19.73	-155.07	1927	2018	180.6365931
+057b	155	"Honolulu, HI"	USA	pacific	21.3	-157.87	1905	2018	144.5481412
+059a	521	"Kahului, HI"	USA	pacific	20.9	-156.47	1950	2018	142.9390911
+552a	2128	"Kawaihae, HI"	USA	pacific	20.03	-155.83	1989	2018	132.3836847
+061a	823	"Mokuoloe, HI"	USA	pacific	21.43	-157.8	1957	2018	143.5622829
+058a	756	"Nawiliwili, Hi"	USA	pacific	21.97	-159.35	1954	2018	163.2668291
+765a	526	"Grand Isle, LA"	USA	atlantic	29.25	-89.95	1980	2018	189.472616
+741a	235	"Boston, MA"	USA	atlantic	42.35	-71.05	1921	2018	135.8273438
+743a	1111	"Nantucket, MA"	USA	atlantic	41.28	-70.08	1965	2018	7.016167761
+742a	367	"Woods Hole, MA"	USA	atlantic	41.52	-70.67	1957	2018	265.3985349
+gesla_1190	311	"Annapolis, MD"	USA	atlantic	38.983	-76.482	1950	2015	43.76370995
+gesla_1240	148	"Baltimore, MD"	USA	atlantic	39.267	-76.578	1950	2015	33.52526919
+gesla_0035	1295	"Cambridge, MD"	USA	atlantic	38.573	-76.068	1979	2015	21.03352177
+gesla_0740	412	"Solomon's Island, MD"	USA	atlantic	38.317	-76.452	1979	2015	42.64497454
+gesla_1204	525	"Bar Harbor, ME"	USA	atlantic	44.392	-68.205	1950	2015	154.7159971
+740a	332	"Eastport, ME"	USA	atlantic	44.9	-66.98	1929	2018	72.42609997
+252a	183	"Portland, ME"	USA	atlantic	43.65	-70.23	1910	2018	144.9954035
+260a	1636	"Duck Pier, NC"	USA	atlantic	36.18	-75.73	1978	2018	162.0156391
+750a	396	"Wilmington, NC"	USA	atlantic	34.22	-77.95	1935	2018	232.8188045
+264a	180	"Atlantic City, NJ"	USA	atlantic	39.35	-74.42	1911	2018	156.9784172
+746a	1153	"Cape May, NJ"	USA	atlantic	38.97	-74.95	1965	2018	39.48590491
+gesla_1005	366	"Sandy Hook, NJ"	USA	atlantic	40.467	-74.009	1950	2015	146.4766595
+279a	519	"Montauk, NY"	USA	atlantic	41.03	-71.95	1947	2018	295.7671761
+745a	12	"New York, NY"	USA	atlantic	40.7	-74	1920	2018	208.331823
+gesla_1194	362	"Willets Point, NY"	USA	atlantic	40.793	-73.782	1950	2000	14.76964435
+572a	265	"Astoria, OR"	USA	pacific	46.2	-123.77	1925	2018	365.2390941
+575a	1269	"Charleston, OR"	USA	pacific	43.33	-124.32	1970	2018	164.6242864
+557a	1640	"Port Orford, OR"	USA	pacific	42.73	-124.48	1978	2018	178.4233231
+592a	1196	"South Beach, OR"	USA	pacific	44.62	-124.03	1967	2018	171.7247675
+253a	351	"Newport, RI"	USA	atlantic	41.5	-71.32	1930	2018	135.5193941
+gesla_1021	430	"Providence, RI"	USA	atlantic	41.807	-71.401	1979	2015	67.68982801
+261b	234	"Charleston, SC"	USA	atlantic	32.77	-79.92	1921	2018	231.5782969
+gesla_0768	1444	"Springmaid Pier, SC"	USA	atlantic	33.655	-78.918	1976	2015	214.8764949
+770a	1903	"Corpus Cristi, TX"	USA	atlantic	27.57	-97.22	1983	2018	152.4148552
+gesla_0452	725	"Freeport, TX"	USA	atlantic	28.948	-95.308	1954	2008	187.6208949
+767a	161	"Galveston P.Pier, TX"	USA	atlantic	29.28	-94.78	1957	2011	145.5859563
+775a	161	"Galveston Pier 21, TX"	USA	atlantic	29.3	-94.78	1904	2018	214.0084211
+772a	497	"Port Isabel, TX"	USA	atlantic	26.05	-97.2	1944	2018	215.1617222
+769a	538	"Rockport, TX"	USA	atlantic	28.02	-97.03	1937	2018	256.0131468
+766a	1835	"Sabine Pass N, TX"	USA	atlantic	29.72	-93.87	1985	2018	222.988594
+749a	1635	"Chesapeake BBT, VA"	USA	atlantic	36.97	-76.1	1975	2016	109.9968664
+gesla_0145	299	"Sewells Point, VA"	USA	atlantic	36.947	-76.33	1950	2015	63.47880279
+558a	385	"Neah Bay, WA"	USA	pacific	48.37	-124.62	1934	2018	174.9556435
+gesla_0428	127	"Seattle, WA"	USA	pacific	47.603	-122.339	1950	2015	186.6926843
+564a	1354	"Willapa Bay, WA"	USA	pacific	46.7	-123.95	1972	2018	204.9653508
+246a	759	"Magueyes Island, PR"	USA Trust	atlantic	17.97	-67.03	1954	2018	193.1125206
+245a	1001	"San Juan, PR"	USA Trust	atlantic	18.45	-66.12	1977	2018	220.7437232
+255a	1393	"Charlotte Amalie, VI"	USA Trust	atlantic	18.33	-64.92	1978	2018	149.371181
+254a	1447	"Limetree Bay, VI"	USA Trust	atlantic	17.68	-64.75	1982	2018	171.9450837
+053a	540	"Apra Harbor, Guam"	USA Trust	pacific	13.43	144.65	1948	2018	157.970872
+052a	598	Johnston	USA Trust	pacific	16.73	-169.52	1947	2018	172.2746543
+050a	523	Midway	USA Trust	pacific	28.22	-177.37	1947	2018	118.5848867
+056a	539	Pago Pago	USA Trust	pacific	-14.28	-170.68	1948	2018	169.6618658
+028b	1474	"Saipan-B, N. Mariana Islands"	USA Trust	pacific	15.22	145.73	1978	2018	120.4935713
+051a	595	Wake	USA Trust	pacific	19.28	166.62	1950	2018	208.4466913
