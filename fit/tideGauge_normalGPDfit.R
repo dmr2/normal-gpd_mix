@@ -21,8 +21,8 @@ library("MASS") # for calculating Normal distribution parameters
 
 
 rm(list=ls(all=TRUE))
-root = "/Users/dmr/Dropbox\ (Princeton)/Projects/"
-proj = "Flood\ Return\ Curve\ Revisit/Normal-GPD\ Mixture"
+root = "/Users/dmr/Dropbox\ (Princeton)/Projects"
+proj = "Old/Flood\ Return\ Curve\ Revisit/Normal-GPD\ Mixture"
 workDir <- paste(root,proj,"fit",sep="/")
 
 setwd(workDir)
@@ -44,7 +44,7 @@ gesla_root = paste(root,"Tide\ Gauge\ Data/GESLA2/",sep="/")
 USE_FULL_RECORD = TRUE # use full record, or only period that meets data completion requirement
 
 # Open meta data associated with each tide gauge
-metafil <- paste(root,"ESL\ metrics/tidegauges_w_min30years.txt",sep="/")
+metafil <- paste(workDir,"tidegauges_w_min30years.txt",sep="/")
 gauge_dat <- getTG2(metafil)
 gauge_list <- gauge_dat$Gauge
 
@@ -59,6 +59,10 @@ df <- data.frame(Gauge_ID=character(),PSMSL_ID=character(),Station_Name=characte
 # Loop over each tide gauge
 for(i in 1:length(gauge_list)){
 
+  if ( gauge_list[i] != "745a"){
+    next
+  }
+  
   print(" ")
   print(paste("Working on... ",gauge_list[i]))
   
@@ -100,26 +104,34 @@ for(i in 1:length(gauge_list)){
   
   if (USE_FULL_RECORD){
     
-    GPD_Record_Start=gauge_dat$Record_Start_Day[i]
-    GPD_Record_End=gauge_dat$Record_End_Day[i]
+    GPD_Record_Start <- gauge_dat$Record_Start_Day[i]
+    GPD_Record_End <- gauge_dat$Record_End_Day[i]
+    
+    # assure that these have same number of years
+    daily_max <- daily_max[daily_max[, "Year"] >= GPD_Record_Start & daily_max[, "Year"] <= GPD_Record_End, ]
+    annual <- annual[annual[,"year"] >= GPD_Record_Start & annual[, "year"] <= GPD_Record_End, ]
     
   }else{
     
     # only use values in the part of the complete tide gauge record that meets the data completion requirements
      y1d <- gauge_dat$QA_Record_Start_Day[i]
      y2d <- gauge_dat$QA_Record_End_Day[i]
-     daily_max = daily_max[daily_max[, "Year"] >= y1d & daily_max[, "Year"] <= y2d, ]
-     annual = annual[annual[,"year"] >= y1d & annual[, "year"] <= y2d, ]
-     GPD_Record_Start=gauge_dat$QA_Record_Start_Day[i]
-     GPD_Record_End=gauge_dat$QA_Record_End_Day[i]
+     
+     daily_max <- daily_max[daily_max[, "Year"] >= y1d & daily_max[, "Year"] <= y2d, ]
+     annual <- annual[annual[,"year"] >= y1d & annual[, "year"] <= y2d, ]
+     
+     GPD_Record_Start <- gauge_dat$QA_Record_Start_Day[i]
+     GPD_Record_End <- gauge_dat$QA_Record_End_Day[i]
      
   }
   
   # Add annual mean to data frame
-  daily_max["Annual_Mean"] = rep(annual$mean, times=table(daily_max["Year"]))
+  daily_max["Annual_Mean"] <- rep(annual$mean, times=table(daily_max["Year"]))
+  daily_max["Annual_Mean"][daily_max["Annual_Mean"] == -999] = NA
+  
   
   # subtract annual mean from dailies (de-trend)
-  daily_max["Max_Tide_detrend"] = with(daily_max, ifelse((Max_Tide != -999) & (!is.na(Annual_Mean)), Max_Tide - Annual_Mean, -999))
+  daily_max["Max_Tide_detrend"] <- with(daily_max, ifelse((Max_Tide != -999) & (!is.na(Annual_Mean)), Max_Tide - Annual_Mean, -999))
 
   # Remove missing values
   daily_max <- daily_max[!(daily_max$Max_Tide_detrend==-999),]
@@ -132,7 +144,7 @@ for(i in 1:length(gauge_list)){
     y2 <- 2012
     
   }else{ # Use latest 18-year period in the record as the tidal epoch
-    y1 <- yr_last-18
+    y1 <- yr_last - 18
     y2 <- yr_last
   }
   
@@ -143,8 +155,8 @@ for(i in 1:length(gauge_list)){
   
   # Now calculate daily max tide relative to MHHW (and convert to meters)
   
-  daily_max["Max_Tide_rel_MHHW"] = with(daily_max, ifelse(Max_Tide != -999, (Max_Tide - mhhw)/1000, Max_Tide))
-  daily_max["Max_Tide_detrend_rel_MHHW"] = with(daily_max, ifelse(Max_Tide_detrend != -999, (Max_Tide_detrend - mhhw)/1000, Max_Tide_detrend))
+  daily_max["Max_Tide_rel_MHHW"] <- with(daily_max, ifelse(Max_Tide != -999, (Max_Tide - mhhw)/1000, Max_Tide))
+  daily_max["Max_Tide_detrend_rel_MHHW"] <- with(daily_max, ifelse(Max_Tide_detrend != -999, (Max_Tide_detrend - mhhw)/1000, Max_Tide_detrend))
   daily_max_rel_to_mhhw <- as.numeric(unlist(daily_max["Max_Tide_detrend_rel_MHHW"]))
   
   # Stuff for GPD...
