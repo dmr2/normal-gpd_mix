@@ -59,10 +59,6 @@ df <- data.frame(Gauge_ID=character(),PSMSL_ID=character(),Station_Name=characte
 # Loop over each tide gauge
 for(i in 1:length(gauge_list)){
 
-  if ( gauge_list[i] != "745a"){
-    next
-  }
-  
   print(" ")
   print(paste("Working on... ",gauge_list[i]))
   
